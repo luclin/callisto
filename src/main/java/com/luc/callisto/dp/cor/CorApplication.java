@@ -5,7 +5,7 @@ import java.util.function.Function;
 import java.util.function.UnaryOperator;
 
 /**
- * @author : linweizhong
+ * @author : luc
  * @date : 2019-01-22 19:22
  * Description:
  */

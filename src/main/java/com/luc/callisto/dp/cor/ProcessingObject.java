@@ -1,7 +1,7 @@
 package com.luc.callisto.dp.cor;
 
 /**
- * @author : linweizhong
+ * @author : luc
  * @date : 2019-01-22 19:42
  * Description: chain of responsibility
  */
