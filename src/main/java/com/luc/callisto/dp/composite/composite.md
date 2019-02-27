@@ -7,6 +7,7 @@
 
 比如下图，子类Line，Text，Rectangle定义了一些图元对象，这些类都实现了Draw，分别用于画直线、矩形和正文；他们的组合Picture也是一种图元，他的Draw通过调用子组件的Draw来达到效果。
 
+![image](/img/picture_tree.png)
 
 因此组合模式适用的情况：
 	* 你想表示对象的部分-整体的层次结构
