@@ -26,6 +26,6 @@ public abstract class Operation {
         this.val2 = val2;
     }
 
-    protected abstract double operation();
+    public abstract double operation();
 
 }

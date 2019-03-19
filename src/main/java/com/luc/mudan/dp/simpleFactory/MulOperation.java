@@ -7,7 +7,7 @@ package com.luc.mudan.dp.simpleFactory;
  */
 public class MulOperation extends Operation {
     @Override
-    protected double operation() {
+    public double operation() {
         return getVal1() * getVal2();
     }
 }

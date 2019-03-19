@@ -7,7 +7,7 @@ package com.luc.mudan.dp.simpleFactory;
  */
 public class DivOperation extends Operation {
     @Override
-    protected double operation() {
+    public double operation() {
         if (getVal1() != 0) {
             return getVal2() / getVal1();
         }
